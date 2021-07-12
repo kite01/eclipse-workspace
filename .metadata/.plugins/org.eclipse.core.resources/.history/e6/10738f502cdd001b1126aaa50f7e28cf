@@ -1,0 +1,9 @@
+package exam;
+
+public class Q4 {
+	int lineCount = 4;
+	int starCount = 1;
+	
+	
+
+}
